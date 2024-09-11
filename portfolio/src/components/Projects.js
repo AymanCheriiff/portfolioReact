@@ -5,25 +5,25 @@ import CustomHook from "./CustomHook";
 const Projects = ()=>{
     const [listProjects] = useState([
         {
-            name:'Project',
+            name:'Computers Store Web Site',
             des: 'This project aims to build a responsive e-commerce website with a sleek interface and essential features like product search, filtering, and secure checkout. The focus is on delivering an intuitive and engaging shopping experience across all devices',
             mission: 'Web developer',
             language: 'HTML5, CSS3, Angular, SpringBoot,...',
-            image: '/project1.jpg'
+            image: '/project1.png'
         },
         {
-            name:'Project',
-            des: 'This project aims to build a responsive e-commerce website with a sleek interface and essential features like product search, filtering, and secure checkout. The focus is on delivering an intuitive and engaging shopping experience across all devices',
+            name:'Saas Photovoltaique consturction management',
+            des: 'This project aims to build a responsive software as a service with a sleek interface and essential features like product search, filtering, and secure checkout.',
             mission: 'Web developer',
             language: 'HTML5, CSS3, Angular, SpringBoot,...',
-            image: '/project1.jpg'
+            image: '/project2.png'
         },
         {
-            name:'Project',
-            des: 'This project aims to build a responsive e-commerce website with a sleek interface and essential features like product search, filtering, and secure checkout. The focus is on delivering an intuitive and engaging shopping experience across all devices',
+            name:'Crazy Slider animation',
+            des: 'This project aims to build a responsive images silder with a sleek interface.',
             mission: 'Web developer',
-            language: 'HTML5, CSS3, Angular, SpringBoot,...',
-            image: '/project1.jpg'
+            language: 'HTML5, CSS3, JAVA SCRIPT,...',
+            image: '/project3.png'
         }
     ]);
 const refTab = useRef();

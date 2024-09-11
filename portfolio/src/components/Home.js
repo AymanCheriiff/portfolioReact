@@ -10,7 +10,7 @@ const Home = ()=>{
                     MY NAME IS <span>AYMAN CHERIF</span>
                 </div>
                 <div className="desc">
-                Hello! I’m Ayman Cherif, a dedicated and results-driven Full-stack web Developer with a passion for creating exceptional user experiences. Here’s what I bring to the table:
+                Hello! I’m Ayman Cherif, a dedicated and results-driven web Developer with a passion for creating exceptional user experiences. Here’s what I bring to the table:
 
                 ✅ 3 years of hands-on experience crafting dynamic, user-friendly front-end solutions using Angular and React 🖥️
                 ✅ 2 years of building scalable, robust back-ends with Spring Boot and Java 🔧
@@ -29,7 +29,7 @@ const Home = ()=>{
             </div>
             <div className="avatar">
                 <div className="card">
-                    <img src="/avatar.jpg"/>
+                    <img src="/ayman.png"/>
                     <div className="info">
                         <div>Developer</div>
                         <div>Tunisia</div>

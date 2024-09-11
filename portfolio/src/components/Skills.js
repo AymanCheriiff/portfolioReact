@@ -43,7 +43,7 @@ CustomHook(refTab, refDivs);
                     This is my Skills
                 </div>
                 <div className="des" ref={(el) => el && refDivs.current.push(el)}>
-                    Lorem ipsum" is a placeholder text commonly used in the design and publishing industry to fill in content areas and demonstrate how a finished product will look. It originates from a scrambled passage of Latin text from Cicero's writings, and it helps designers focus on visual elements without the distraction of meaningful content. The most famous version starts with "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                A skilled web developer with expertise in front-end technologies like Angular and React, and strong back-end proficiency in SpringBoot. Adept at building dynamic, responsive websites and web applications with a focus on user experience and performance. Experienced in both RESTful API development and database management. Committed to writing clean, efficient code and delivering high-quality solutions.
                 </div>
                 <div className="list" ref={(el) => el && refDivs.current.push(el)}>
                     {
